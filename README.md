@@ -1,20 +1,19 @@
-<!-- Title -->
+<!-- Title 
 <div id="toc">
   <ul align="center" style="list-style: none;">
     <summary>
       <h1>Hello! My name's William.</h1>
     </summary>
   </ul>
-</div>
+</div> -->
 
 <!-- My stats -->        
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wcielen&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  &nbsp;
   <img src="https://nirzak-streak-stats.vercel.app/?user=wcielen&theme=midnight-purple&hide_border=false" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wcielen&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</p>
 
 <!-- Rainbow Divider -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
